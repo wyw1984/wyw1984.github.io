@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/wyw1984/wyw1984.github.io/master/KooJKS_Example.ipa</string>
+					<string>http://pbaf1m5h8.bkt.clouddn.com/KooApp.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>org.cocoapods.demo.KooJKS-Example</string>
+				<string>com.koolearn.koolearnMotion</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -25,7 +25,7 @@
 				<key>releaseNotes</key>
 				<string>1.0版本发布</string>
 				<key>title</key>
-				<string>KooJKS-Example</string>
+				<string>KooApp</string>
 			</dict>
 		</dict>
 	</array>
